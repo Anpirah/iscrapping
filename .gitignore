@@ -6,6 +6,7 @@ node_modules/
 *.lock
 *.sqlite
 package-lock.json
+app2.js
 
 # Entorno de desarrollo
 .env
